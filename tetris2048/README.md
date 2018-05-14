@@ -11,7 +11,7 @@ $ npm install
 $ npm start
 ```
 
-## Short summary of the components
+## Short summary of the custom components
 `Tile` is a stateless component that takes care of rendering a tile. A tile is a 106px by 106px square which shows a number with the relevant style.  
 
 `Board` is also a stateless component that generates the `Tile` components and determines their position on the screen.  

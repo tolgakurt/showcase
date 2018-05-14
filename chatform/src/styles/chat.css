@@ -1,0 +1,17 @@
+.chat {
+    background-color: #f5f5f5;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.messages {
+    position: absolute;
+    top: 65px;
+    bottom: 50px;
+    left: 10px;
+    right: 0;
+    overflow: scroll;
+}

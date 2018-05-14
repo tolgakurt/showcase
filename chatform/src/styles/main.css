@@ -1,0 +1,18 @@
+.main {
+    width: 480px;
+    height: 878px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -240px;
+    margin-top: -439px;
+    background: url("/img/phone.png") no-repeat;
+}
+
+.container {
+    position: absolute;
+    top: 91px;
+    right: 23px;
+    bottom: 115px;
+    left: 22px;
+}
