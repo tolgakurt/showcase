@@ -1,0 +1,199 @@
+GENERAL INFORMATION
+Dataset: monks.data
+Dataset entry count: 430
+Cross validation technique: 4-fold
+Training + validation dataset entry count: 344
+Testing dataset entry count: 86
+Number of epochs: 1000
+Activation function codes: 0 -> sigmoidal, 1 -> linear (y=0.1x)
+Accuracy = true_classifications / dataset_entry_count
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 5
+Activation function: 0
+Learning rate: 0.1
+Fold index: 0 ->  Accuracy = 54/86 = 0.627907
+Fold index: 1 ->  Accuracy = 66/86 = 0.767442
+Fold index: 2 ->  Accuracy = 57/86 = 0.662791
+Fold index: 3 ->  Accuracy = 66/86 = 0.767442
+Parameter set average accuracy: 0.706395
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 5
+Activation function: 0
+Learning rate: 0.4
+Fold index: 0 ->  Accuracy = 70/86 = 0.813953
+Fold index: 1 ->  Accuracy = 64/86 = 0.744186
+Fold index: 2 ->  Accuracy = 65/86 = 0.755814
+Fold index: 3 ->  Accuracy = 68/86 = 0.790698
+Parameter set average accuracy: 0.776163
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 5
+Activation function: 0
+Learning rate: 0.7
+Fold index: 0 ->  Accuracy = 85/86 = 0.988372
+Fold index: 1 ->  Accuracy = 85/86 = 0.988372
+Fold index: 2 ->  Accuracy = 85/86 = 0.988372
+Fold index: 3 ->  Accuracy = 85/86 = 0.988372
+Parameter set average accuracy: 0.988372
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 5
+Activation function: 1
+Learning rate: 0.1
+Fold index: 0 ->  Accuracy = 57/86 = 0.662791
+Fold index: 1 ->  Accuracy = 56/86 = 0.651163
+Fold index: 2 ->  Accuracy = 46/86 = 0.534884
+Fold index: 3 ->  Accuracy = 60/86 = 0.697674
+Parameter set average accuracy: 0.636628
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 5
+Activation function: 1
+Learning rate: 0.4
+Fold index: 0 ->  Accuracy = 56/86 = 0.651163
+Fold index: 1 ->  Accuracy = 55/86 = 0.639535
+Fold index: 2 ->  Accuracy = 45/86 = 0.523256
+Fold index: 3 ->  Accuracy = 61/86 = 0.709302
+Parameter set average accuracy: 0.630814
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 5
+Activation function: 1
+Learning rate: 0.7
+Fold index: 0 ->  Accuracy = 56/86 = 0.651163
+Fold index: 1 ->  Accuracy = 56/86 = 0.651163
+Fold index: 2 ->  Accuracy = 46/86 = 0.534884
+Fold index: 3 ->  Accuracy = 61/86 = 0.709302
+Parameter set average accuracy: 0.636628
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 5
+Activation function: 2
+Learning rate: 0.1
+Fold index: 0 ->  Accuracy = 39/86 = 0.453488
+Fold index: 1 ->  Accuracy = 66/86 = 0.767442
+Fold index: 2 ->  Accuracy = 60/86 = 0.697674
+Fold index: 3 ->  Accuracy = 65/86 = 0.755814
+Parameter set average accuracy: 0.668605
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 5
+Activation function: 2
+Learning rate: 0.4
+Fold index: 0 ->  Accuracy = 39/86 = 0.453488
+Fold index: 1 ->  Accuracy = 39/86 = 0.453488
+Fold index: 2 ->  Accuracy = 44/86 = 0.511628
+Fold index: 3 ->  Accuracy = 49/86 = 0.569767
+Parameter set average accuracy: 0.497093
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 5
+Activation function: 2
+Learning rate: 0.7
+Fold index: 0 ->  Accuracy = 39/86 = 0.453488
+Fold index: 1 ->  Accuracy = 39/86 = 0.453488
+Fold index: 2 ->  Accuracy = 44/86 = 0.511628
+Fold index: 3 ->  Accuracy = 49/86 = 0.569767
+Parameter set average accuracy: 0.497093
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 10
+Activation function: 0
+Learning rate: 0.1
+Fold index: 0 ->  Accuracy = 58/86 = 0.674419
+Fold index: 1 ->  Accuracy = 64/86 = 0.744186
+Fold index: 2 ->  Accuracy = 83/86 = 0.965116
+Fold index: 3 ->  Accuracy = 84/86 = 0.976744
+Parameter set average accuracy: 0.840116
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 10
+Activation function: 0
+Learning rate: 0.4
+Fold index: 0 ->  Accuracy = 85/86 = 0.988372
+Fold index: 1 ->  Accuracy = 85/86 = 0.988372
+Fold index: 2 ->  Accuracy = 85/86 = 0.988372
+Fold index: 3 ->  Accuracy = 85/86 = 0.988372
+Parameter set average accuracy: 0.988372
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 10
+Activation function: 0
+Learning rate: 0.7
+Fold index: 0 ->  Accuracy = 86/86 = 1
+Fold index: 1 ->  Accuracy = 85/86 = 0.988372
+Fold index: 2 ->  Accuracy = 85/86 = 0.988372
+Fold index: 3 ->  Accuracy = 85/86 = 0.988372
+Parameter set average accuracy: 0.991279
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 10
+Activation function: 1
+Learning rate: 0.1
+Fold index: 0 ->  Accuracy = 57/86 = 0.662791
+Fold index: 1 ->  Accuracy = 56/86 = 0.651163
+Fold index: 2 ->  Accuracy = 46/86 = 0.534884
+Fold index: 3 ->  Accuracy = 60/86 = 0.697674
+Parameter set average accuracy: 0.636628
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 10
+Activation function: 1
+Learning rate: 0.4
+Fold index: 0 ->  Accuracy = 56/86 = 0.651163
+Fold index: 1 ->  Accuracy = 55/86 = 0.639535
+Fold index: 2 ->  Accuracy = 45/86 = 0.523256
+Fold index: 3 ->  Accuracy = 61/86 = 0.709302
+Parameter set average accuracy: 0.630814
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 10
+Activation function: 1
+Learning rate: 0.7
+Fold index: 0 ->  Accuracy = 56/86 = 0.651163
+Fold index: 1 ->  Accuracy = 56/86 = 0.651163
+Fold index: 2 ->  Accuracy = 46/86 = 0.534884
+Fold index: 3 ->  Accuracy = 61/86 = 0.709302
+Parameter set average accuracy: 0.636628
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 10
+Activation function: 2
+Learning rate: 0.1
+Fold index: 0 ->  Accuracy = 39/86 = 0.453488
+Fold index: 1 ->  Accuracy = 39/86 = 0.453488
+Fold index: 2 ->  Accuracy = 44/86 = 0.511628
+Fold index: 3 ->  Accuracy = 85/86 = 0.988372
+Parameter set average accuracy: 0.601744
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 10
+Activation function: 2
+Learning rate: 0.4
+Fold index: 0 ->  Accuracy = 39/86 = 0.453488
+Fold index: 1 ->  Accuracy = 39/86 = 0.453488
+Fold index: 2 ->  Accuracy = 44/86 = 0.511628
+Fold index: 3 ->  Accuracy = 49/86 = 0.569767
+Parameter set average accuracy: 0.497093
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 10
+Activation function: 2
+Learning rate: 0.7
+Fold index: 0 ->  Accuracy = 39/86 = 0.453488
+Fold index: 1 ->  Accuracy = 39/86 = 0.453488
+Fold index: 2 ->  Accuracy = 44/86 = 0.511628
+Fold index: 3 ->  Accuracy = 49/86 = 0.569767
+Parameter set average accuracy: 0.497093
+
+BEST PARAMETERS
+Hidden layer perceptron count: 10
+Activation function code: 0
+Learning rate: 0.7
+
+TEST DATA
+Training network setup with best parameters.
+Running test data with trained network.
+Test Data Accuracy = 86/86 = 1

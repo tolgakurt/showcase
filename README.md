@@ -13,3 +13,7 @@ A simple game written using React framework.
 ## chatform
 
 A chat bot implementation that communicates with JotForm API.
+
+## ann
+
+A crude artificial neural network implementation in C++.

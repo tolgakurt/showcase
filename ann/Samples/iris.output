@@ -1,0 +1,199 @@
+GENERAL INFORMATION
+Dataset: iris.data
+Dataset entry count: 150
+Cross validation technique: 4-fold
+Training + validation dataset entry count: 120
+Testing dataset entry count: 30
+Number of epochs: 1000
+Activation function codes: 0 -> sigmoidal, 1 -> linear, 2 -> hyperbolic tangential
+Accuracy = true_classifications / dataset_entry_count
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 4
+Activation function: 0
+Learning rate: 0.1
+Fold index: 0 ->  Accuracy = 30/30 = 1
+Fold index: 1 ->  Accuracy = 27/30 = 0.9
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 28/30 = 0.933333
+Parameter set average accuracy: 0.95
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 4
+Activation function: 0
+Learning rate: 0.5
+Fold index: 0 ->  Accuracy = 28/30 = 0.933333
+Fold index: 1 ->  Accuracy = 27/30 = 0.9
+Fold index: 2 ->  Accuracy = 27/30 = 0.9
+Fold index: 3 ->  Accuracy = 23/30 = 0.766667
+Parameter set average accuracy: 0.875
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 4
+Activation function: 0
+Learning rate: 0.9
+Fold index: 0 ->  Accuracy = 22/30 = 0.733333
+Fold index: 1 ->  Accuracy = 25/30 = 0.833333
+Fold index: 2 ->  Accuracy = 27/30 = 0.9
+Fold index: 3 ->  Accuracy = 17/30 = 0.566667
+Parameter set average accuracy: 0.758333
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 4
+Activation function: 1
+Learning rate: 0.1
+Fold index: 0 ->  Accuracy = 30/30 = 1
+Fold index: 1 ->  Accuracy = 28/30 = 0.933333
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 28/30 = 0.933333
+Parameter set average accuracy: 0.958333
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 4
+Activation function: 1
+Learning rate: 0.5
+Fold index: 0 ->  Accuracy = 28/30 = 0.933333
+Fold index: 1 ->  Accuracy = 28/30 = 0.933333
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 28/30 = 0.933333
+Parameter set average accuracy: 0.941667
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 4
+Activation function: 1
+Learning rate: 0.9
+Fold index: 0 ->  Accuracy = 28/30 = 0.933333
+Fold index: 1 ->  Accuracy = 28/30 = 0.933333
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 28/30 = 0.933333
+Parameter set average accuracy: 0.941667
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 4
+Activation function: 2
+Learning rate: 0.1
+Fold index: 0 ->  Accuracy = 29/30 = 0.966667
+Fold index: 1 ->  Accuracy = 27/30 = 0.9
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 27/30 = 0.9
+Parameter set average accuracy: 0.933333
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 4
+Activation function: 2
+Learning rate: 0.5
+Fold index: 0 ->  Accuracy = 21/30 = 0.7
+Fold index: 1 ->  Accuracy = 29/30 = 0.966667
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 29/30 = 0.966667
+Parameter set average accuracy: 0.9
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 4
+Activation function: 2
+Learning rate: 0.9
+Fold index: 0 ->  Accuracy = 9/30 = 0.3
+Fold index: 1 ->  Accuracy = 23/30 = 0.766667
+Fold index: 2 ->  Accuracy = 12/30 = 0.4
+Fold index: 3 ->  Accuracy = 6/30 = 0.2
+Parameter set average accuracy: 0.416667
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 8
+Activation function: 0
+Learning rate: 0.1
+Fold index: 0 ->  Accuracy = 30/30 = 1
+Fold index: 1 ->  Accuracy = 29/30 = 0.966667
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 29/30 = 0.966667
+Parameter set average accuracy: 0.975
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 8
+Activation function: 0
+Learning rate: 0.5
+Fold index: 0 ->  Accuracy = 30/30 = 1
+Fold index: 1 ->  Accuracy = 29/30 = 0.966667
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 29/30 = 0.966667
+Parameter set average accuracy: 0.975
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 8
+Activation function: 0
+Learning rate: 0.9
+Fold index: 0 ->  Accuracy = 30/30 = 1
+Fold index: 1 ->  Accuracy = 29/30 = 0.966667
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 29/30 = 0.966667
+Parameter set average accuracy: 0.975
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 8
+Activation function: 1
+Learning rate: 0.1
+Fold index: 0 ->  Accuracy = 30/30 = 1
+Fold index: 1 ->  Accuracy = 28/30 = 0.933333
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 28/30 = 0.933333
+Parameter set average accuracy: 0.958333
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 8
+Activation function: 1
+Learning rate: 0.5
+Fold index: 0 ->  Accuracy = 28/30 = 0.933333
+Fold index: 1 ->  Accuracy = 28/30 = 0.933333
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 28/30 = 0.933333
+Parameter set average accuracy: 0.941667
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 8
+Activation function: 1
+Learning rate: 0.9
+Fold index: 0 ->  Accuracy = 28/30 = 0.933333
+Fold index: 1 ->  Accuracy = 28/30 = 0.933333
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 28/30 = 0.933333
+Parameter set average accuracy: 0.941667
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 8
+Activation function: 2
+Learning rate: 0.1
+Fold index: 0 ->  Accuracy = 29/30 = 0.966667
+Fold index: 1 ->  Accuracy = 27/30 = 0.9
+Fold index: 2 ->  Accuracy = 29/30 = 0.966667
+Fold index: 3 ->  Accuracy = 29/30 = 0.966667
+Parameter set average accuracy: 0.95
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 8
+Activation function: 2
+Learning rate: 0.5
+Fold index: 0 ->  Accuracy = 9/30 = 0.3
+Fold index: 1 ->  Accuracy = 12/30 = 0.4
+Fold index: 2 ->  Accuracy = 12/30 = 0.4
+Fold index: 3 ->  Accuracy = 6/30 = 0.2
+Parameter set average accuracy: 0.325
+
+CURRENT PARAMETERS
+Hidden layer perceptron count: 8
+Activation function: 2
+Learning rate: 0.9
+Fold index: 0 ->  Accuracy = 9/30 = 0.3
+Fold index: 1 ->  Accuracy = 12/30 = 0.4
+Fold index: 2 ->  Accuracy = 12/30 = 0.4
+Fold index: 3 ->  Accuracy = 6/30 = 0.2
+Parameter set average accuracy: 0.325
+
+BEST PARAMETERS
+Hidden layer perceptron count: 8
+Activation function code: 0
+Learning rate: 0.1
+
+TEST DATA
+Training network setup with best parameters.
+Running test data with trained network.
+Test Data Accuracy = 28/30 = 0.933333
